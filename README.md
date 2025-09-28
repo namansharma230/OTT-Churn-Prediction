@@ -26,18 +26,16 @@ The objective is to design an AI solution that predicts which OTT subscribers ar
 ## 4. Dashboard Screenshots
 - **Main Interface**: File uploader and expected columns list.
   ![Main Interface](<img width="3024" height="1910" alt="image" src="https://github.com/user-attachments/assets/f2cefcf2-133e-4ae6-b10f-e2682cb52b19" />
-)  # Add screenshot
+)  
 - **Summary and Charts**: Metrics cards, churn distribution histogram, risk by subscription and region.
   ![Summary and Charts](<img width="1188" height="499" alt="image" src="https://github.com/user-attachments/assets/3b33c0f6-606a-4219-8cab-002bf6a50c59" />
-)  # Add screenshot
+)  
 - **All Subscribers Table**: Paginated table with filters, highlighted high-risk rows (red for >0.6, green for low).
   ![All Subscribers Table](<img width="1188" height="499" alt="image" src="https://github.com/user-attachments/assets/3f27d28d-d958-4525-b2fa-921a373bc36f" />
-)  # Add screenshot
+)  
 - **At-Risk Users**: Filtered table for high-risk users with actions.
-  ![At-Risk Users](<img width="1180" height="565" alt="image" src="https://github.com/user-attachments/assets/1ad00f4a-47b6-4ff7-958b-d169d3af56a1" />
-  ![At-Risk Users](<img width="1153" height="394" alt="image" src="https://github.com/user-attachments/assets/d77407ce-fc1a-475a-ae59-720ba5e7d409" />
-
-)  # Add screenshot
+  ![At-Risk Users](<img width="1180" height="565" alt="image" src="https://github.com/user-attachments/assets/1ad00f4a-47b6-4ff7-958b-d169d3af56a1" />)
+  (![At-Risk Users](<img width="1153" height="394" alt="image" src="https://github.com/user-attachments/assets/d77407ce-fc1a-475a-ae59-720ba5e7d409" />) 
 
 ## Conclusion
 This prototype demonstrates an end-to-end AI solution for OTT churn, with actionable insights via a Streamlit dashboard. Future improvements: Hyperparameter tuning, more features (e.g., session frequency), integration with real-time API.
