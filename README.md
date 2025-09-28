@@ -1,4 +1,5 @@
 # OTT Churn Prediction Prototype Report
+LIVE DEMO LINK: https://namanottchurnapp.streamlit.app/
 
 
 https://github.com/user-attachments/assets/c2cdbbe6-b515-4d9f-a0d2-76e2adaaf8fa
