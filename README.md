@@ -2,7 +2,7 @@
 LIVE DEMO LINK: https://namanottchurnapp.streamlit.app/
 Sample Data: 
 [testsample.csv](https://github.com/user-attachments/files/22581068/testsample.csv)
-Documentation: [Dive Deep]([OTT Churn Prediction Prototype Report.docx](https://github.com/user-attachments/files/22622968/OTT.Churn.Prediction.Prototype.Report.docx)
+Documentation: Dive Deep([OTT Churn Prediction Prototype Report.docx](https://github.com/user-attachments/files/22622968/OTT.Churn.Prediction.Prototype.Report.docx)
 ) 
 
 
